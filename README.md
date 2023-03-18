@@ -27,11 +27,6 @@ Register Number : 22008434
 **Data Cleaning - Data_set.csv**
 
 ```
-
-import numpy as np
-import pandas as pd
-3/18/23, 12:12 AM Ex-01-Data-Cleaning/README.md at main · premalatha-sureshbabu/Ex-01-Data-Cleaning
-https://github.com/premalatha-sureshbabu/Ex-01-Data-Cleaning/blob/main/README.md 2/10
 OUPUT for DATA 1
 Before Cleaning
 import seaborn as sbn
@@ -84,17 +79,14 @@ df.isnull().sum()
 # Code for DATA 2
 
 Name :S.S.Nithyaasri
+
 Register Number : 22008434
 
 ```
 import pandas as pd
-
 import numpy as np
-
 import seaborn as sns
-
 df = pd.read_csv("/content/Loan_data.csv")
-
 df
 df.head()
 df.describe()
