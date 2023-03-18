@@ -21,10 +21,13 @@ Save the Clean data to the file
 # CODE
 
 Code for DATA 1
-```
+
 Name :S.S.Nithyaa sri
 Register Number : 22008434
 **Data Cleaning - Data_set.csv**
+
+```
+
 import numpy as np
 import pandas as pd
 3/18/23, 12:12 AM Ex-01-Data-Cleaning/README.md at main · premalatha-sureshbabu/Ex-01-Data-Cleaning
@@ -50,6 +53,7 @@ df['watchers'] = df['watchers'].fillna(df['watchers'].median())
 df.head()
 df.info()
 df.isnull().sum()
+
 ```
 
 # OUPUT for DATA 1
@@ -81,6 +85,8 @@ df.isnull().sum()
 
 Name :S.S.Nithyaasri
 Register Number : 22008434
+
+```
 import pandas as pd
 
 import numpy as np
@@ -113,6 +119,7 @@ again
 df.isnull().sum()
 #Checking info of the dataset to check all the columns have entries
 df.info()
+```
 
 # Output for DATA 2
 
