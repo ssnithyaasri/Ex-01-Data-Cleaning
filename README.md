@@ -26,9 +26,6 @@ Name :S.S.Nithyaa sri
 
 Register Number : 22008434
 
-OUPUT for DATA 1
-
-
 ```
 
 import seaborn as sbn
