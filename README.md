@@ -26,11 +26,8 @@ Name :S.S.Nithyaa sri
 
 Register Number : 22008434
 
-**Data Cleaning - Data_set.csv**
-
 OUPUT for DATA 1
 
-Before Cleaning
 
 ```
 
