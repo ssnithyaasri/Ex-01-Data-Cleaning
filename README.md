@@ -23,12 +23,17 @@ Save the Clean data to the file
 Code for DATA 1
 
 Name :S.S.Nithyaa sri
+
 Register Number : 22008434
+
 **Data Cleaning - Data_set.csv**
 
-```
 OUPUT for DATA 1
+
 Before Cleaning
+
+```
+
 import seaborn as sbn
 df = pd.read_csv("/content/Data_set.csv")
 print(df)
